@@ -1,0 +1,2 @@
+# taki
+uma assistente virtual
